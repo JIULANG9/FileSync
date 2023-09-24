@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">FileSync</string>
+
+    <string name="app_login">Login</string>
+    <string name="app_to_wordsfairy">To WordsFairy</string>
+    <string name="app_password_login">PassWord Login</string>
+
+    <string name="app_create_recluse_identity">Recluse Identity</string>
+    <string name="app_create_secret_key">Create SecretKey</string>
+    <string name="app_privacy_protection_is_more_secure">Privacy protection is more secure</string>
+
+    <string name="app_register">Register</string>
+    <string name="app_verify">Obtain Verification Code</string>
+    <string name="app_forget_password">Forget Password</string>
+
+    <string name="app_read_and_agreed">Have read and agreed</string>
+    <string name="app_service_agreement">Service Agreement</string>
+    <string name="app_and">and</string>
+    <string name="app_privacy_protection_guidelines">[WordsFairy] Privacy Protection Guidelines</string>
+    <string name="app_please_read_and_agree_policy">Please read and agree to the《WordsFairy Service Agreement》</string>
+
+
+    <string name="app_cancel">Cancel</string>
+    <string name="app_confirm">Confirm</string>
+    <string name="app_agree">Agree</string>
+    <string name="app_disagree">Disagree</string>
+
+    <string name="app_set_password">Set</string>
+    <string name="app_un_set_password">UnSet</string>
+
+
+
+    <string name="app_search">Search</string>
+    <string name="app_set">Set</string>
+
+    <string name="app_create_folder">Create Folder</string>
+    <string name="app_folder_name">Folder Name</string>
+    <string name="app_rename_folder">Rename Folder</string>
+    <string name="app_folder_manage">Folder Manage</string>
+
+    <string name="app_note_content_text">NoteContentText</string>
+    <string name="app_copy">Copy</string>
+    <string name="app_forward">Forward</string>
+    <string name="app_delete">Delete</string>
+    <string name="app_modify">Modify</string>
+    <string name="app_note_sharing">Note Sharing</string>
+</resources>
